@@ -1,0 +1,9 @@
+# folders
+venv/*
+gcode/*
+vscode/*
+__pycache__/*
+
+# file_types
+*.gcode
+*.log
