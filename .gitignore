@@ -1,9 +1,11 @@
 # folders
 venv/*
 gcode/*
-vscode/*
+.vscode/*
 __pycache__/*
+utils/__pycache__/*
 
 # file_types
 *.gcode
 *.log
+*.dxf
